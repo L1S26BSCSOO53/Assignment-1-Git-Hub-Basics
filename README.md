@@ -12,6 +12,9 @@ int main()
 	//SUM OF FIRST 50 NATURAL NUMBERS 
 
 	const int N = 50;
+	cout << "SUM OF FIRST" << " " << N << " " << "NATURAL NUMBERS" << endl;
+cout << N * (N + 1) / 2 << endl;
+	
 	int sum = 0;
 	cout << "SUM OF FIRST" << " " << N << " " << "NATURAL NUMBERS" << endl;
 	for (int i = 1; i <= 50; i++)
