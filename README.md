@@ -25,3 +25,7 @@ cout << N * (N + 1) / 2 << endl;
 	return 0;
 	system("pause");
 }
+/*OUTPUT
+SUM OF FIRST 50 NATURAL NUMBERS
+1275
+SUM OF FIRST 50 NATURAL NUMBERS IS 1275*/
