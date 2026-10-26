@@ -6,7 +6,7 @@ Assignment 1 Git Hub starting C++Program the sum of first 50 natural numbers
 // STARTING GITHUB 
 // Assignment 1 PROGRAM TO CALCULATE SUM OF FIRST 50 NATURAL NUMBERS
 #include<iostream>
-using namespace std;
+using namespace std
 int main()
 {
 	//SUM OF FIRST 50 NATURAL NUMBERS 
